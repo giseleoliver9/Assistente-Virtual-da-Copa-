@@ -1,6 +1,6 @@
 # ⚽ CopaPulse AI
 
-> Agente inteligente para acompanhamento da Copa do Mundo 2026 — com análise de grupos, geração de conteúdo e ações comerciais personalizadas por persona.
+> Assistente Virtual para acompanhamento da Copa do Mundo 2026, com análise de grupos, geração de conteúdo e ações comerciais personalizadas por persona.
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-FF4B4B?style=flat&logo=streamlit&logoColor=white)
@@ -11,9 +11,9 @@
 
 ## Sobre o projeto
 
-Durante a Copa do Mundo, torcedores, empresas e criadores de conteúdo são bombardeados por jogos, resultados e notícias ao mesmo tempo. O problema não é falta de informação — é excesso dela sem organização.
+Durante a Copa do Mundo, torcedores, empresas e criadores de conteúdo são bombardeados por jogos, resultados e notícias ao mesmo tempo. Isso gera um problema de  excesso de informação. 
 
-O **CopaPulse AI** resolve isso com um agente que consulta uma base estruturada da Copa 2026 e gera respostas personalizadas dependendo de quem pergunta.
+O **CopaPulse AI** resolve isso com um agente que consulta uma base estruturada da Copa 2026 e gera respostas personalizadas, dependendo de quem pergunta.
 
 ### Três modos de uso
 
@@ -57,11 +57,6 @@ Post 2 — Mexico x Colombia:
 Clássico latino hoje no Azteca! México e Colômbia chegam com vitória na estreia.
 Duas seleções, um bilhete para a próxima fase. 🇲🇽🆚🇨🇴
 #Copa2026 #GrupoB #Azteca
-
-Post 3 — Geral:
-Hoje tem Copa e muito! 4 jogos nos grupos A e B.
-Quem você vai torcer? Conta aqui! ⚽🔥
-#Copa2026 #WorldCup2026
 ```
 
 ---
@@ -274,17 +269,16 @@ Obtenha sua chave gratuita em: [console.groq.com](https://console.groq.com)
 
 | Camada | Tecnologia | Papel no projeto |
 |---|---|---|
-| Linguagem | Python 3.11+ | Base de todo o código |
-| Interface | Streamlit | App web sem necessidade de HTML/CSS/JS |
-| LLM | Groq API — LLaMA 3.3 70B | Geração de linguagem natural |
-| Dados estruturados | Pandas + CSV + JSON | Base de conhecimento local |
-| Variáveis de ambiente | python-dotenv | Gerenciamento seguro de credenciais |
-
+| Linguagem | Python 3.11+ |
+| Interface | Streamlit |
+| LLM | Groq API — LLaMA 3.3 70B |
+| Dados estruturados | Pandas + CSV + JSON |
+| Variáveis de ambiente | python-dotenv |
 ---
 
 ### Padrão RAG (Retrieval-Augmented Generation)
 
-O CopaPulse AI implementa uma versão simplificada do padrão **RAG** — uma das arquiteturas mais usadas em agentes de IA com dados próprios.
+O CopaPulse AI implementa uma versão simplificada do padrão **RAG**, uma das arquiteturas mais usadas em agentes de IA com dados próprios.
 
 ```
 RAG clássico:                        CopaPulse AI:
@@ -300,7 +294,7 @@ Monta prompt com contexto            Monta prompt com contexto filtrado
 LLM gera resposta                    LLM gera resposta
 ```
 
-A diferença: em vez de embeddings e busca vetorial (solução mais complexa), o agente usa **busca por regras determinísticas** — mais simples, mais controlável e suficiente para uma base de dados estruturada como CSV/JSON.
+A diferença: em vez de embeddings e busca vetorial (solução mais complexa), o agente usa **busca por regras determinísticas**, mais simples, mais controlável e suficiente para uma base de dados estruturada como CSV/JSON.
 
 Para evoluir para RAG completo: substituir `data_loader.py` por um vector store (FAISS, ChromaDB, Pinecone) e usar embeddings para recuperar trechos.
 
@@ -377,7 +371,7 @@ O agente possui uma camada de validação (`rules.py`) que:
 
 ---
 
-## Este código como base para outros agentes
+## Use este código como base para outros agentes
 
 A arquitetura do CopaPulse AI é **independente do domínio**. Os cinco arquivos de `src/` formam um template reutilizável para qualquer agente que precise consultar uma base de dados estruturada e responder em diferentes tons por persona.
 
