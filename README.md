@@ -1,4 +1,4 @@
-# ⚽ CopaPulse AI
+# ⚽ Assistente Virtual Copa AI
 
 > Assistente Virtual para acompanhamento da Copa do Mundo 2026, com análise de grupos, geração de conteúdo e ações comerciais personalizadas por persona.
 
