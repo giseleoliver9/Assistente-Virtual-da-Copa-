@@ -1,0 +1,128 @@
+[
+  {
+    "nome": "MetLife Stadium",
+    "cidade": "East Rutherford",
+    "estado": "New Jersey",
+    "pais": "USA",
+    "capacidade": 82500,
+    "sede_final": true,
+    "jogos_previstos": 8
+  },
+  {
+    "nome": "Rose Bowl",
+    "cidade": "Pasadena",
+    "estado": "California",
+    "pais": "USA",
+    "capacidade": 88565,
+    "sede_final": false,
+    "jogos_previstos": 6
+  },
+  {
+    "nome": "SoFi Stadium",
+    "cidade": "Inglewood",
+    "estado": "California",
+    "pais": "USA",
+    "capacidade": 70240,
+    "sede_final": false,
+    "jogos_previstos": 6
+  },
+  {
+    "nome": "AT&T Stadium",
+    "cidade": "Arlington",
+    "estado": "Texas",
+    "pais": "USA",
+    "capacidade": 80000,
+    "sede_final": false,
+    "jogos_previstos": 6
+  },
+  {
+    "nome": "Hard Rock Stadium",
+    "cidade": "Miami Gardens",
+    "estado": "Florida",
+    "pais": "USA",
+    "capacidade": 65326,
+    "sede_final": false,
+    "jogos_previstos": 6
+  },
+  {
+    "nome": "Lumen Field",
+    "cidade": "Seattle",
+    "estado": "Washington",
+    "pais": "USA",
+    "capacidade": 72000,
+    "sede_final": false,
+    "jogos_previstos": 5
+  },
+  {
+    "nome": "Arrowhead Stadium",
+    "cidade": "Kansas City",
+    "estado": "Missouri",
+    "pais": "USA",
+    "capacidade": 76416,
+    "sede_final": false,
+    "jogos_previstos": 5
+  },
+  {
+    "nome": "Lincoln Financial Field",
+    "cidade": "Philadelphia",
+    "estado": "Pennsylvania",
+    "pais": "USA",
+    "capacidade": 69796,
+    "sede_final": false,
+    "jogos_previstos": 5
+  },
+  {
+    "nome": "Gillette Stadium",
+    "cidade": "Foxborough",
+    "estado": "Massachusetts",
+    "pais": "USA",
+    "capacidade": 65878,
+    "sede_final": false,
+    "jogos_previstos": 5
+  },
+  {
+    "nome": "BC Place",
+    "cidade": "Vancouver",
+    "estado": "British Columbia",
+    "pais": "Canada",
+    "capacidade": 54500,
+    "sede_final": false,
+    "jogos_previstos": 6
+  },
+  {
+    "nome": "BMO Field",
+    "cidade": "Toronto",
+    "estado": "Ontario",
+    "pais": "Canada",
+    "capacidade": 30000,
+    "sede_final": false,
+    "jogos_previstos": 5
+  },
+  {
+    "nome": "Estadio Azteca",
+    "cidade": "Cidade do México",
+    "estado": "Distrito Federal",
+    "pais": "Mexico",
+    "capacidade": 87523,
+    "sede_final": false,
+    "jogos_previstos": 6
+  },
+  {
+    "nome": "Estadio BBVA",
+    "cidade": "Monterrey",
+    "estado": "Nuevo León",
+    "pais": "Mexico",
+    "capacidade": 53500,
+    "sede_final": false,
+    "jogos_previstos": 6
+  },
+  {
+    "nome": "Estadio Akron",
+    "cidade": "Guadalajara",
+    "estado": "Jalisco",
+    "pais": "Mexico",
+    "capacidade": 49850,
+    "sede_final": false,
+    "jogos_previstos": 6
+  }
+]
