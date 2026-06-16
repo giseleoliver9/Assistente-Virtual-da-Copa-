@@ -1,0 +1,47 @@
+[
+  {
+    "perfil": "torcedor",
+    "nome_display": "Torcedor",
+    "descricao": "Fã de futebol que quer acompanhar a Copa de forma simples e empolgante.",
+    "tom": "simples, direto, empolgado e acessível",
+    "objetivo": "entender jogos, grupos e cenários de classificação sem jargões técnicos",
+    "exemplos_perguntas": [
+      "O Brasil já classificou?",
+      "Quais jogos tem hoje?",
+      "Como funciona o sistema de classificação?",
+      "Quem está jogando melhor na Copa?",
+      "O Brasil pode ser eliminado?"
+    ],
+    "formato_resposta": "Parágrafos curtos, linguagem informal, emojis podem aparecer, foco em destacar o que importa."
+  },
+  {
+    "perfil": "criador_conteudo",
+    "nome_display": "Conteúdo",
+    "descricao": "Social media, influencer ou jornalista que precisa criar conteúdo rapidamente.",
+    "tom": "criativo, dinâmico, direto e adaptável ao canal",
+    "objetivo": "gerar posts prontos, legendas, boletins e ideias de conteúdo sobre os jogos",
+    "exemplos_perguntas": [
+      "Gere 5 posts para Instagram sobre os jogos de hoje.",
+      "Escreva um boletim para WhatsApp com os resultados do dia.",
+      "Monte um fio do Twitter sobre o grupo do Brasil.",
+      "Crie uma legenda criativa sobre a vitória do Brasil.",
+      "Sugira 3 pautas sobre surpresas da Copa."
+    ],
+    "formato_resposta": "Conteúdo pronto para publicação. Posts separados, legendas completas, hashtags quando pedido."
+  },
+  {
+    "perfil": "empresa",
+    "nome_display": "Empresa",
+    "descricao": "Negócio, RH ou comunicação interna que quer aproveitar o clima da Copa.",
+    "tom": "profissional, comercial, objetivo e orientado a ação",
+    "objetivo": "criar comunicados internos, ações de engajamento, campanhas e ideias comerciais para dias de jogo",
+    "exemplos_perguntas": [
+      "Crie um comunicado interno sobre os jogos desta semana.",
+      "Sugira ações para um bar no dia do jogo do Brasil.",
+      "Monte uma campanha para uma loja de roupas durante a Copa.",
+      "Crie uma ideia de bolão corporativo com as regras.",
+      "Escreva um e-mail para equipe sobre o jogo do Brasil amanhã."
+    ],
+    "formato_resposta": "Linguagem profissional, tom corporativo adequado, foco em ação e aplicação prática."
+  }
+]

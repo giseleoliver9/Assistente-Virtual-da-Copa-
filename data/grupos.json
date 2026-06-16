@@ -1,0 +1,158 @@
+[
+  {
+    "grupo": "A",
+    "selecoes": ["USA", "Morocco", "Japan", "Uruguay"],
+    "jogos_realizados": 2,
+    "classificacao": [
+      {"selecao": "USA", "jogos": 1, "vitorias": 1, "empates": 0, "derrotas": 0, "gols_pro": 2, "gols_contra": 1, "saldo": 1, "pontos": 3},
+      {"selecao": "Japan", "jogos": 1, "vitorias": 0, "empates": 1, "derrotas": 0, "gols_pro": 1, "gols_contra": 1, "saldo": 0, "pontos": 1},
+      {"selecao": "Uruguay", "jogos": 1, "vitorias": 0, "empates": 1, "derrotas": 0, "gols_pro": 1, "gols_contra": 1, "saldo": 0, "pontos": 1},
+      {"selecao": "Morocco", "jogos": 1, "vitorias": 0, "empates": 0, "derrotas": 1, "gols_pro": 1, "gols_contra": 2, "saldo": -1, "pontos": 0}
+    ],
+    "proximos_jogos": ["USA x Japan (15/06)", "Morocco x Uruguay (15/06)"],
+    "criterios": "Classificam-se os dois primeiros colocados. Os quatro melhores terceiros colocados de todos os grupos também avançam."
+  },
+  {
+    "grupo": "B",
+    "selecoes": ["Mexico", "Colombia", "Serbia", "Ivory Coast"],
+    "jogos_realizados": 2,
+    "classificacao": [
+      {"selecao": "Mexico", "jogos": 1, "vitorias": 1, "empates": 0, "derrotas": 0, "gols_pro": 1, "gols_contra": 0, "saldo": 1, "pontos": 3},
+      {"selecao": "Colombia", "jogos": 1, "vitorias": 1, "empates": 0, "derrotas": 0, "gols_pro": 2, "gols_contra": 1, "saldo": 1, "pontos": 3},
+      {"selecao": "Serbia", "jogos": 1, "vitorias": 0, "empates": 0, "derrotas": 1, "gols_pro": 0, "gols_contra": 1, "saldo": -1, "pontos": 0},
+      {"selecao": "Ivory Coast", "jogos": 1, "vitorias": 0, "empates": 0, "derrotas": 1, "gols_pro": 1, "gols_contra": 2, "saldo": -1, "pontos": 0}
+    ],
+    "proximos_jogos": ["Mexico x Colombia (15/06)", "Serbia x Ivory Coast (15/06)"],
+    "criterios": "Classificam-se os dois primeiros colocados. Os quatro melhores terceiros colocados de todos os grupos também avançam."
+  },
+  {
+    "grupo": "C",
+    "selecoes": ["Canada", "Netherlands", "Cameroon", "South Korea"],
+    "jogos_realizados": 2,
+    "classificacao": [
+      {"selecao": "Netherlands", "jogos": 1, "vitorias": 1, "empates": 0, "derrotas": 0, "gols_pro": 2, "gols_contra": 0, "saldo": 2, "pontos": 3},
+      {"selecao": "Canada", "jogos": 1, "vitorias": 0, "empates": 1, "derrotas": 0, "gols_pro": 1, "gols_contra": 1, "saldo": 0, "pontos": 1},
+      {"selecao": "Cameroon", "jogos": 1, "vitorias": 0, "empates": 1, "derrotas": 0, "gols_pro": 1, "gols_contra": 1, "saldo": 0, "pontos": 1},
+      {"selecao": "South Korea", "jogos": 1, "vitorias": 0, "empates": 0, "derrotas": 1, "gols_pro": 0, "gols_contra": 2, "saldo": -2, "pontos": 0}
+    ],
+    "proximos_jogos": ["Canada x South Korea (16/06)", "Netherlands x Cameroon (16/06)"],
+    "criterios": "Classificam-se os dois primeiros colocados. Os quatro melhores terceiros colocados de todos os grupos também avançam."
+  },
+  {
+    "grupo": "D",
+    "selecoes": ["Brazil", "Switzerland", "Nigeria", "Saudi Arabia"],
+    "jogos_realizados": 2,
+    "classificacao": [
+      {"selecao": "Brazil", "jogos": 1, "vitorias": 1, "empates": 0, "derrotas": 0, "gols_pro": 3, "gols_contra": 1, "saldo": 2, "pontos": 3},
+      {"selecao": "Switzerland", "jogos": 1, "vitorias": 0, "empates": 1, "derrotas": 0, "gols_pro": 1, "gols_contra": 1, "saldo": 0, "pontos": 1},
+      {"selecao": "Nigeria", "jogos": 1, "vitorias": 0, "empates": 1, "derrotas": 0, "gols_pro": 1, "gols_contra": 1, "saldo": 0, "pontos": 1},
+      {"selecao": "Saudi Arabia", "jogos": 1, "vitorias": 0, "empates": 0, "derrotas": 1, "gols_pro": 1, "gols_contra": 3, "saldo": -2, "pontos": 0}
+    ],
+    "proximos_jogos": ["Brazil x Nigeria (16/06)", "Switzerland x Saudi Arabia (16/06)"],
+    "criterios": "Classificam-se os dois primeiros colocados. Os quatro melhores terceiros colocados de todos os grupos também avançam."
+  },
+  {
+    "grupo": "E",
+    "selecoes": ["France", "Ecuador", "Turkey", "South Africa"],
+    "jogos_realizados": 2,
+    "classificacao": [
+      {"selecao": "Turkey", "jogos": 1, "vitorias": 1, "empates": 0, "derrotas": 0, "gols_pro": 2, "gols_contra": 1, "saldo": 1, "pontos": 3},
+      {"selecao": "France", "jogos": 1, "vitorias": 1, "empates": 0, "derrotas": 0, "gols_pro": 2, "gols_contra": 0, "saldo": 2, "pontos": 3},
+      {"selecao": "Ecuador", "jogos": 1, "vitorias": 0, "empates": 0, "derrotas": 1, "gols_pro": 1, "gols_contra": 2, "saldo": -1, "pontos": 0},
+      {"selecao": "South Africa", "jogos": 1, "vitorias": 0, "empates": 0, "derrotas": 1, "gols_pro": 0, "gols_contra": 2, "saldo": -2, "pontos": 0}
+    ],
+    "proximos_jogos": ["France x Ecuador (17/06)", "Turkey x South Africa (17/06)"],
+    "criterios": "Classificam-se os dois primeiros colocados. Os quatro melhores terceiros colocados de todos os grupos também avançam."
+  },
+  {
+    "grupo": "F",
+    "selecoes": ["Argentina", "Poland", "Ghana", "Iran"],
+    "jogos_realizados": 2,
+    "classificacao": [
+      {"selecao": "Argentina", "jogos": 1, "vitorias": 1, "empates": 0, "derrotas": 0, "gols_pro": 2, "gols_contra": 0, "saldo": 2, "pontos": 3},
+      {"selecao": "Poland", "jogos": 1, "vitorias": 1, "empates": 0, "derrotas": 0, "gols_pro": 1, "gols_contra": 0, "saldo": 1, "pontos": 3},
+      {"selecao": "Iran", "jogos": 1, "vitorias": 1, "empates": 0, "derrotas": 0, "gols_pro": 1, "gols_contra": 0, "saldo": 1, "pontos": 3},
+      {"selecao": "Ghana", "jogos": 1, "vitorias": 0, "empates": 1, "derrotas": 0, "gols_pro": 1, "gols_contra": 1, "saldo": 0, "pontos": 1}
+    ],
+    "proximos_jogos": ["Argentina x Poland (17/06)", "Ghana x Iran (17/06)"],
+    "criterios": "Classificam-se os dois primeiros colocados. Os quatro melhores terceiros colocados de todos os grupos também avançam."
+  },
+  {
+    "grupo": "G",
+    "selecoes": ["Spain", "Senegal", "Scotland", "Iraq"],
+    "jogos_realizados": 2,
+    "classificacao": [
+      {"selecao": "Spain", "jogos": 1, "vitorias": 1, "empates": 0, "derrotas": 0, "gols_pro": 3, "gols_contra": 1, "saldo": 2, "pontos": 3},
+      {"selecao": "Senegal", "jogos": 1, "vitorias": 0, "empates": 1, "derrotas": 0, "gols_pro": 0, "gols_contra": 0, "saldo": 0, "pontos": 1},
+      {"selecao": "Scotland", "jogos": 1, "vitorias": 0, "empates": 1, "derrotas": 0, "gols_pro": 0, "gols_contra": 0, "saldo": 0, "pontos": 1},
+      {"selecao": "Iraq", "jogos": 1, "vitorias": 0, "empates": 0, "derrotas": 1, "gols_pro": 1, "gols_contra": 3, "saldo": -2, "pontos": 0}
+    ],
+    "proximos_jogos": ["Spain x Senegal (18/06)", "Scotland x Iraq (18/06)"],
+    "criterios": "Classificam-se os dois primeiros colocados. Os quatro melhores terceiros colocados de todos os grupos também avançam."
+  },
+  {
+    "grupo": "H",
+    "selecoes": ["England", "Venezuela", "Egypt", "Hungary"],
+    "jogos_realizados": 2,
+    "classificacao": [
+      {"selecao": "England", "jogos": 1, "vitorias": 1, "empates": 0, "derrotas": 0, "gols_pro": 1, "gols_contra": 0, "saldo": 1, "pontos": 3},
+      {"selecao": "Egypt", "jogos": 1, "vitorias": 0, "empates": 1, "derrotas": 0, "gols_pro": 2, "gols_contra": 2, "saldo": 0, "pontos": 1},
+      {"selecao": "Hungary", "jogos": 1, "vitorias": 0, "empates": 1, "derrotas": 0, "gols_pro": 2, "gols_contra": 2, "saldo": 0, "pontos": 1},
+      {"selecao": "Venezuela", "jogos": 1, "vitorias": 0, "empates": 0, "derrotas": 1, "gols_pro": 0, "gols_contra": 1, "saldo": -1, "pontos": 0}
+    ],
+    "proximos_jogos": ["England x Egypt (18/06)", "Venezuela x Hungary (18/06)"],
+    "criterios": "Classificam-se os dois primeiros colocados. Os quatro melhores terceiros colocados de todos os grupos também avançam."
+  },
+  {
+    "grupo": "I",
+    "selecoes": ["Germany", "Panama", "Algeria", "Australia"],
+    "jogos_realizados": 2,
+    "classificacao": [
+      {"selecao": "Germany", "jogos": 1, "vitorias": 1, "empates": 0, "derrotas": 0, "gols_pro": 2, "gols_contra": 0, "saldo": 2, "pontos": 3},
+      {"selecao": "Australia", "jogos": 1, "vitorias": 1, "empates": 0, "derrotas": 0, "gols_pro": 1, "gols_contra": 0, "saldo": 1, "pontos": 3},
+      {"selecao": "Panama", "jogos": 1, "vitorias": 0, "empates": 0, "derrotas": 1, "gols_pro": 0, "gols_contra": 1, "saldo": -1, "pontos": 0},
+      {"selecao": "Algeria", "jogos": 1, "vitorias": 0, "empates": 0, "derrotas": 1, "gols_pro": 0, "gols_contra": 2, "saldo": -2, "pontos": 0}
+    ],
+    "proximos_jogos": [],
+    "criterios": "Classificam-se os dois primeiros colocados. Os quatro melhores terceiros colocados de todos os grupos também avançam."
+  },
+  {
+    "grupo": "J",
+    "selecoes": ["Portugal", "Bolivia", "Romania", "Uzbekistan"],
+    "jogos_realizados": 2,
+    "classificacao": [
+      {"selecao": "Portugal", "jogos": 1, "vitorias": 1, "empates": 0, "derrotas": 0, "gols_pro": 3, "gols_contra": 0, "saldo": 3, "pontos": 3},
+      {"selecao": "Romania", "jogos": 1, "vitorias": 0, "empates": 1, "derrotas": 0, "gols_pro": 1, "gols_contra": 1, "saldo": 0, "pontos": 1},
+      {"selecao": "Uzbekistan", "jogos": 1, "vitorias": 0, "empates": 1, "derrotas": 0, "gols_pro": 1, "gols_contra": 1, "saldo": 0, "pontos": 1},
+      {"selecao": "Bolivia", "jogos": 1, "vitorias": 0, "empates": 0, "derrotas": 1, "gols_pro": 0, "gols_contra": 3, "saldo": -3, "pontos": 0}
+    ],
+    "proximos_jogos": [],
+    "criterios": "Classificam-se os dois primeiros colocados. Os quatro melhores terceiros colocados de todos os grupos também avançam."
+  },
+  {
+    "grupo": "K",
+    "selecoes": ["Belgium", "Costa Rica", "Tunisia", "Denmark"],
+    "jogos_realizados": 2,
+    "classificacao": [
+      {"selecao": "Belgium", "jogos": 1, "vitorias": 1, "empates": 0, "derrotas": 0, "gols_pro": 2, "gols_contra": 0, "saldo": 2, "pontos": 3},
+      {"selecao": "Denmark", "jogos": 1, "vitorias": 1, "empates": 0, "derrotas": 0, "gols_pro": 3, "gols_contra": 0, "saldo": 3, "pontos": 3},
+      {"selecao": "Costa Rica", "jogos": 1, "vitorias": 0, "empates": 0, "derrotas": 1, "gols_pro": 0, "gols_contra": 2, "saldo": -2, "pontos": 0},
+      {"selecao": "Tunisia", "jogos": 1, "vitorias": 0, "empates": 0, "derrotas": 1, "gols_pro": 0, "gols_contra": 3, "saldo": -3, "pontos": 0}
+    ],
+    "proximos_jogos": [],
+    "criterios": "Classificam-se os dois primeiros colocados. Os quatro melhores terceiros colocados de todos os grupos também avançam."
+  },
+  {
+    "grupo": "L",
+    "selecoes": ["Croatia", "Honduras", "New Zealand", "Slovakia"],
+    "jogos_realizados": 2,
+    "classificacao": [
+      {"selecao": "Croatia", "jogos": 1, "vitorias": 1, "empates": 0, "derrotas": 0, "gols_pro": 4, "gols_contra": 0, "saldo": 4, "pontos": 3},
+      {"selecao": "Slovakia", "jogos": 1, "vitorias": 1, "empates": 0, "derrotas": 0, "gols_pro": 2, "gols_contra": 0, "saldo": 2, "pontos": 3},
+      {"selecao": "Honduras", "jogos": 1, "vitorias": 0, "empates": 0, "derrotas": 1, "gols_pro": 0, "gols_contra": 2, "saldo": -2, "pontos": 0},
+      {"selecao": "New Zealand", "jogos": 1, "vitorias": 0, "empates": 0, "derrotas": 1, "gols_pro": 0, "gols_contra": 4, "saldo": -4, "pontos": 0}
+    ],
+    "proximos_jogos": [],
+    "criterios": "Classificam-se os dois primeiros colocados. Os quatro melhores terceiros colocados de todos os grupos também avançam."
+  }
+]
