@@ -426,6 +426,3 @@ python -m streamlit run src/app.py
 
 O padrão RAG simplificado, a separação por personas e a camada de segurança funcionam para qualquer domínio — basta trocar os dados e os prompts.
 
----
-
-Desenvolvido como parte do lab de IA Generativa da [DIO](https://www.dio.me)
